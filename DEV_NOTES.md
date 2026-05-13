@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-13
 - Reviewed security headers configuration
 - Checked for memory leaks in long-running path
+
+## 2026-05-13
+- Tested build on clean environment
