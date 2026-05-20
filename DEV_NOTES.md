@@ -25,3 +25,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-20
 - Bumped patch version
+
+## 2026-05-20
+- Added type hints to helper functions
+- Checked for memory leaks in long-running path
